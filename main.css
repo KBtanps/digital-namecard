@@ -135,6 +135,14 @@ img.profile-pic {
     font-weight: 700;
     color: #333333;
     font-size: 3vh;
+    text-align: center;	
+}
+.text-chinese-name {
+    font-family: 'Noto Sans SC';
+    font-weight: 700;
+    color: #333333;
+    font-size: 3vh;
+    text-align: center;	
 }
 
 .text-title-company {
@@ -142,10 +150,11 @@ img.profile-pic {
     font-weight: 400;
     color: #333333;
     font-size: 2.5vh;
+    text-align: center;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Noto Sans SC', sans-serif;
     font-weight: 300;
     color: #575757;
     font-size: 12px;
