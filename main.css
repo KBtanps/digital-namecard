@@ -1,6 +1,6 @@
 html,
 body {
-  height: 100vh;
+  height: 100%
   width: 56.25vh;
   margin: 0;
   justify-content: center;
@@ -8,8 +8,8 @@ body {
 
 section {
 	display: block;
-	padding-left: 0.5rem;
-	padding-right: 0.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
 	height: auto;
 }
 
@@ -33,9 +33,6 @@ img {
 }
 
 img.profile-pic {
-	height: auto;
-	width: 56.25vh;
-	object-fit: contain;
 	
 }
 
