@@ -2,7 +2,7 @@ html,
 body {
   display: flex;	
   height: 100%;
-  width: 56.25vh;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   justify-content: center;
