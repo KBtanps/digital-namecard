@@ -5,6 +5,7 @@ body {
   margin: 0;
   border: 2px solid red;
   justify-content: center;
+  background-color: white;
 }
 
 section {
@@ -127,10 +128,6 @@ img.profile-pic {
 
 .secondary-info {
 	height: 8%;
-}
-
-.bg-color-white {
-	background-color: white;
 }
 
 .text-name {
