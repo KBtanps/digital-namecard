@@ -80,6 +80,7 @@ img.profile-pic {
 .banner {
 	padding-left:0;
 	padding-right:0;
+	margin-bottom: -4vh;
 	height: auto;
 }
 
@@ -88,7 +89,8 @@ img.profile-pic {
 }
 
 .secondary-info {
-	height: 8%;
+	padding-top: 2%;
+	padding-bottom: 2%;
 }
 
 .text-name {
