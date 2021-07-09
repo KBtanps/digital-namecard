@@ -1,7 +1,7 @@
 html,
 body {
-  height: 100%;
-  width: 100%;
+  height: 100vh;
+  width: 56.25vh;
   margin: 0;
   justify-content: center;
 }
@@ -33,8 +33,8 @@ img {
 }
 
 img.profile-pic {
-	height: 80%;
-	width: 80%;
+	height: auto;
+	width: 56.25vh;
 	object-fit: contain;
 	
 }
