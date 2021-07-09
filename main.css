@@ -146,9 +146,9 @@ img.profile-pic {
 
 .text-name {
     font-family: 'Lato', sans-serif;
-    font-weight: 400;
+    font-weight: 700;
     color: #333333;
-    font-size: 20px;
+    font-size: 3vh;
 }
 
 .text-title-company {
