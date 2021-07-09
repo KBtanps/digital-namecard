@@ -2,8 +2,8 @@ html,
 body {
   height: auto;
   width: auto;
+  margin: 0;
   border: 2px solid red;
-  border-radius: 5px;
   justify-content: center;
 }
 
@@ -166,6 +166,7 @@ img.profile-pic {
 	line-height: 48px;
 	font-family: 'Lato', sans-serif;
 	font-size: 3vh;
+	border-radius: 4px;
 	box-shadow: 3px 3px 3px 0 #888888;
 	margin: 4px 2px;
 	color: white;
