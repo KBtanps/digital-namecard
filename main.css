@@ -1,8 +1,7 @@
 html,
 body {
-  height: 100%;
-  width: 56.25vh;
-  margin: 0;
+  height: auto;
+  width: auto;
   border: 2px solid red;
   border-radius: 5px;
   justify-content: center;
@@ -10,8 +9,8 @@ body {
 
 section {
 	display: block;
-	padding-left: 1rem;
-	padding-right: 1rem;
+	padding-left: 10%;
+	padding-right: 10%;
 	height: auto;
 }
 
@@ -121,6 +120,8 @@ img.profile-pic {
 }
 
 .banner {
+	padding-left:0;
+	padding-right:0;
 	height: 100%;
 }
 
