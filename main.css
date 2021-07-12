@@ -122,6 +122,13 @@ img.profile-pic {
     font-size: 2vh;
 }
 
+.text-addressinfo {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #333333;
+    font-size: 1.75vh;
+}
+
 .text-address{
     font-family: 'Lato', sans-serif;
     font-weight: 700;
